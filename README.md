@@ -8,7 +8,10 @@ A testing ground for low-level graphics programming. It provides af flexible env
 * Experimental Focus: shaders, 3D pipelines and software architecture
 
 ## Editor Showcase
-<p><img src="imgs/image.png" width="420" /> <img src="imgs/image1.png" width="420" /></p>
+<p width="100%">
+  <img src="imgs/image.png" width="49%" />
+  <img src="imgs/image1.png" width="49%" />
+</p>
 
 ## Build Instructions
 1. Clone the repository
