@@ -9,8 +9,10 @@ A testing ground for low-level graphics programming. It provides af flexible env
 
 ## Editor Showcase
 
-<img src="imgs/image.png" width="460" />
-<img src="imgs/image1.png" width="460" />
+<p align="left">
+  <img src="imgs/image.png" width="420" />
+  <img src="imgs/image1.png" width="420" />
+</p>
 
 
 ## Build Instructions
@@ -29,7 +31,7 @@ A testing ground for low-level graphics programming. It provides af flexible env
 
 
 ## Shader Experiments
-<p>
+<p align="left">
   <img src="imgs/{F1CC867A-E17B-48C1-A282-DA0DAF45D197}.png" width="270" />
   <img src="imgs/{F06D9686-4E0F-48CB-9F4E-57F827ECE27B}.png" width="270" />
   <img src="imgs/{C4C3D986-2DA9-4520-B07E-95B5731EFC55}.png" width="270" />
